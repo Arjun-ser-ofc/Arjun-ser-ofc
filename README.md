@@ -1,6 +1,6 @@
 ### Hello World, I'm ArjunLal  👋
 
- <img align="right" alt="GIF" src="https://github.com/Arjun-ser-ofc/Arjunser-redme/blob/main/code.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Arjun-ser-ofc/Arjun-ser-ofc/blob/main/code.gif" width="500" height="320" />
 
 
 ## I'm a Student, Boy, Developer, Creator, and Coder!!
