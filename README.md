@@ -15,7 +15,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="right" alt="GIF" src="https://github.com/Arjun-ser-ofc/Arjun-ser-ofc/blob/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Arjun-ser-ofc/Arjun-ser-ofc/blob/main/coder.gif" width="500" height="400" />
 <br />
 
 ### Languages and Tools:
