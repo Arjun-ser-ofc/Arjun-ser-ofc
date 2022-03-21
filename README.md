@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/Arjun-ser-ofc/Arjun-ser-ofc/blob/main/code.gif" width="500" height="320" />
 
-<audio src="https://g.top4top.io/m_221172jo20.mp3" autoplay controls> </audio>
+
 ## I'm a Student, Boy, Developer, Creator, and Coder!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
@@ -51,7 +51,7 @@
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="ArjunSer's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-ser-ofc" />
-
+<audio src="https://g.top4top.io/m_221172jo20.mp3" autoplay controls> </audio>
 </details>
 
 [website]: http://Arjun-ser-ofc.github.io
